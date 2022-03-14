@@ -1,16 +1,13 @@
-### Hi there 👋
+## Salve, salve! 👋
 
-<!--
-**MichelDenardin/micheldenardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Michel Denardin falando aqui! Ilustrador e editor de imagens, trilhando agora o caminho da tecnologia! 🤟🏻
 
-Here are some ideas to get you started:
+- 🎓 Cursando o Programa Starter Web Developer Full Stack da Growdev!
+- 👨🏻‍💻 Estudando e praticando Python 3 
+- 💻 Bora ficar fluente também em: HTML5, CSS3, Java Script, React, NodeJS
+- 🎸📷 Metido a músico e fotógrafo nas horas vagas
+- 🐶🐱 Meus filhotes tem 4 patas!
+- 🎮 Preciso pôr meus jogos em dia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+⭐️ From [MichelDenardin](https://github.com/micheldenardin)
