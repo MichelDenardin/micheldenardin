@@ -12,4 +12,4 @@ Michel Denardin falando aqui! Ilustrador e editor de imagens, trilhando agora o 
 
 ---
 ⭐️ From [MichelDenardin](https://github.com/micheldenardin)
-<img src="https://media1.giphy.com/media/l1J9BNjq8Flf4XM40/giphy.gif?cid=ecf05e47pkz3tq5wv29mr52mp0m5frp3y63hhogli5qtuzeo&rid=giphy.gif&ct=g" alt="Infinito">
+<iframe src="https://giphy.com/embed/l1J9BNjq8Flf4XM40" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/psychedelic-falcaolucas-seer-l1J9BNjq8Flf4XM40">via GIPHY</a></p>
