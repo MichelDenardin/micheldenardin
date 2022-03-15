@@ -12,4 +12,5 @@ Michel Denardin falando aqui! Ilustrador e editor de imagens, trilhando agora o 
 
 ---
 ⭐️ From [MichelDenardin](https://github.com/micheldenardin)
-<iframe src="https://giphy.com/embed/l1J9BNjq8Flf4XM40" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/psychedelic-falcaolucas-seer-l1J9BNjq8Flf4XM40">via GIPHY</a></p>
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/l1J9BNjq8Flf4XM40" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/psychedelic-falcaolucas-seer-l1J9BNjq8Flf4XM40">via GIPHY</a></p>
