@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://media2.giphy.com/media/xTiQyohZdXceENvkcM/giphy.gif?cid=ecf05e47pqqpcau243t3sl8433oor611ryaxkrprtg6e5jet&rid=giphy.gif&ct=g" width="1000" height="50" alt="static"> 
+<img src="https://media4.giphy.com/media/WrHrrwqxCTTb7uKQQX/giphy.gif?cid=790b7611d8dfbceee5002abc6fef69cdee25607362398e06&rid=giphy.gif&ct=g" width="1000" height="5" alt="static"> 
 </p>
-## Salve, salve! 👋
+<h1>Salve, salve! 👋</h1>
 
 <strong>Michel Denardin</strong> falando aqui! Ilustrador e editor de imagens, trilhando agora o caminho da tecnologia! 🤟🏻
 
