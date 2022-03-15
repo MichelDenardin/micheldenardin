@@ -12,4 +12,4 @@ Michel Denardin falando aqui! Ilustrador e editor de imagens, trilhando agora o 
 
 ---
 ⭐️ From [MichelDenardin](https://github.com/micheldenardin)
-<img src='https://media1.giphy.com/media/l1J9BNjq8Flf4XM40/giphy.gif?cid=ecf05e47pkz3tq5wv29mr52mp0m5frp3y63hhogli5qtuzeo&rid=giphy.gif&ct=g' alt='Infinito'></img>'
+<img src="https://media1.giphy.com/media/l1J9BNjq8Flf4XM40/giphy.gif?cid=ecf05e47pkz3tq5wv29mr52mp0m5frp3y63hhogli5qtuzeo&rid=giphy.gif&ct=g" alt="Infinito">
